@@ -36,3 +36,7 @@ dotnet aspnet-codegenerator controller -name <EnrollmentsController> -async -api
 dotnet run
 
 dotnet aspnet-codegenerator controller -name ProductsController -async -api -m Product -dc ProductContext -outDir Controller
+
+
+dotnet add package MailKit --version 4.3.0
+

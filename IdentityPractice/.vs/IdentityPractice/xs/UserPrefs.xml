@@ -1,33 +1,3 @@
-﻿<Properties StartupConfiguration="{F48C7931-709F-4AB9-BC31-E08A7FE9FDFA}|https">
-  <MonoDevelop.Ide.ItemProperties.IdentityPractice PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties StartupConfiguration="{EFC22BC1-14B1-43C6-B2E3-2980AF4D7E9C}|https">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
-    <Files>
-      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
-      <File FileName="Controllers/StudentsController.cs" Line="1" Column="1" />
-      <File FileName="Controllers/EnrollmentsController.cs" Line="1" Column="1" />
-      <File FileName="Models/SchoolContext.cs" Line="1" Column="1" />
-      <File FileName="Program.cs" Line="2" Column="1" />
-    </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="IdentityPractice">
-            <Node name="IdentityPractice" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Controllers" expanded="True" />
-              <Node name="Migrations" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
 </Properties>

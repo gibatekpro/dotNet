@@ -556,3 +556,12 @@ C:/Users/w2010923/dotNet/IdentityPractice/bin/Debug/net8.0/runtimes/win/lib/net7
 /Users/tony/VisualStudioProjects/dotNet/IdentityPractice/obj/Debug/net8.0/IdentityPractice.pdb
 /Users/tony/VisualStudioProjects/dotNet/IdentityPractice/obj/Debug/net8.0/IdentityPractice.genruntimeconfig.cache
 /Users/tony/VisualStudioProjects/dotNet/IdentityPractice/obj/Debug/net8.0/ref/IdentityPractice.dll
+/Users/tony/VisualStudioProjects/dotNet/IdentityPractice/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/tony/VisualStudioProjects/dotNet/IdentityPractice/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/tony/VisualStudioProjects/dotNet/IdentityPractice/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/tony/VisualStudioProjects/dotNet/IdentityPractice/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/tony/VisualStudioProjects/dotNet/IdentityPractice/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/tony/VisualStudioProjects/dotNet/IdentityPractice/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/tony/VisualStudioProjects/dotNet/IdentityPractice/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/Users/tony/VisualStudioProjects/dotNet/IdentityPractice/bin/Debug/net8.0/MailKit.dll
+/Users/tony/VisualStudioProjects/dotNet/IdentityPractice/bin/Debug/net8.0/MimeKit.dll
