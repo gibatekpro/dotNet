@@ -1,95 +1,85 @@
 is_global = true
 build_property.TargetFramework = net8.0
-build_property.TargetFramework = net8.0
-build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
-build_property.UsingMicrosoftNETSdkWeb = true
-build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
-build_property.InvariantGlobalization = 
-build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
-build_property.EnforceExtendedAnalyzerRules = 
-build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Website
 build_property.RootNamespace = Website
-build_property.ProjectDir = C:\Users\w2010923\VisualStudioProjects\dotNet\Website\Website\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.RazorLangVersion = 8.0
+build_property.ProjectDir = /Users/tony/VisualStudioProjects/dotNet/Website/Website/
+build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\w2010923\VisualStudioProjects\dotNet\Website\Website
+build_property.MSBuildProjectDirectory = /Users/tony/VisualStudioProjects/dotNet/Website/Website
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/Grades/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVzXENyZWF0ZS5jc2h0bWw=
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/Grades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR3JhZGVzL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/Grades/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVzXERlbGV0ZS5jc2h0bWw=
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/Grades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR3JhZGVzL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/Grades/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVzXERldGFpbHMuY3NodG1s
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/Grades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR3JhZGVzL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/Grades/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVzXEVkaXQuY3NodG1s
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/Grades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR3JhZGVzL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/Grades/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVzXEluZGV4LmNzaHRtbA==
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/Grades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR3JhZGVzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/Students/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudHMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/Students/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudHMvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/Students/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudHMvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/Students/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudHMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/Students/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcSW5kZXguY3NodG1s
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudHMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/w2010923/VisualStudioProjects/dotNet/Website/Website/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-0sxjuuz4as
+[/Users/tony/VisualStudioProjects/dotNet/Website/Website/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-efo2m0xnkv

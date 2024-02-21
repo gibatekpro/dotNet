@@ -8643,26 +8643,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\w2010923\\.nuget\\packages\\": {}
+    "/Users/tony/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\w2010923\\dotNet\\IdentityPractice\\IdentityPractice.csproj",
+      "projectUniqueName": "/Users/tony/VisualStudioProjects/dotNet/IdentityPractice/IdentityPractice.csproj",
       "projectName": "IdentityPractice",
-      "projectPath": "C:\\Users\\w2010923\\dotNet\\IdentityPractice\\IdentityPractice.csproj",
-      "packagesPath": "C:\\Users\\w2010923\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\w2010923\\dotNet\\IdentityPractice\\obj\\",
+      "projectPath": "/Users/tony/VisualStudioProjects/dotNet/IdentityPractice/IdentityPractice.csproj",
+      "packagesPath": "/Users/tony/.nuget/packages/",
+      "outputPath": "/Users/tony/VisualStudioProjects/dotNet/IdentityPractice/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\w2010923\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/tony/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8731,7 +8730,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
